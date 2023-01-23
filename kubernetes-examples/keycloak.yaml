@@ -47,3 +47,4 @@ spec:
           httpGet:
             path: /realms/master
             port: 8080
+
